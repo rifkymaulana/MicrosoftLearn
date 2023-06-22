@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\user\\source\\repos\\MicrosoftLearn\\Path3\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\user\\source\\repos\\MicrosoftLearn\\Path3\\CsharpProjects\\TestProject2\\TestProject2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\user\\source\\repos\\MicrosoftLearn\\Path3\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\user\\source\\repos\\MicrosoftLearn\\Path3\\CsharpProjects\\TestProject2\\TestProject2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\user\\source\\repos\\MicrosoftLearn\\Path3\\CsharpProjects\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "c:\\Users\\user\\source\\repos\\MicrosoftLearn\\Path3\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\user\\source\\repos\\MicrosoftLearn\\Path3\\CsharpProjects\\TestProject2\\TestProject2.csproj",
+        "projectName": "TestProject2",
+        "projectPath": "C:\\Users\\user\\source\\repos\\MicrosoftLearn\\Path3\\CsharpProjects\\TestProject2\\TestProject2.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\user\\source\\repos\\MicrosoftLearn\\Path3\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\user\\source\\repos\\MicrosoftLearn\\Path3\\CsharpProjects\\TestProject2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
