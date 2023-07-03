@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/TestProject/TestProject.csproj",
-      "projectName": "TestProject",
-      "projectPath": "/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/TestProject/TestProject.csproj",
+      "projectUniqueName": "/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
+      "projectName": "Starter",
+      "projectPath": "/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/Starter.csproj",
       "packagesPath": "/home/rifkymaulana/.nuget/packages/",
-      "outputPath": "/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/TestProject/obj/",
+      "outputPath": "/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/rifkymaulana/.nuget/NuGet/NuGet.Config"

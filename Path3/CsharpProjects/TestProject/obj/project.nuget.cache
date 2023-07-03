@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XG+cjY4ud4I/M6KBFPnGhzu/t9yE39BBp27Ub7rSPIY5u+mOIhRzaMsWm73/ovNUA4yW71h3+oI1+pUYqbnzhg==",
+  "dgSpecHash": "8oIP53iRR2XM4vdaM8tt+RJ2I/LSjYYvNwSvA2tE41vN0O+Yxcr1Will+nPZqLOx2BfMhFFLyRRs2N56fGqABw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\user\\source\\repos\\MicrosoftLearn\\Path3\\CsharpProjects\\TestProject\\TestProject.csproj",
+  "projectFilePath": "/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/TestProject/TestProject.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
