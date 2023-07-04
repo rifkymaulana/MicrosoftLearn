@@ -1,0 +1,15 @@
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter.deps.json
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter.runtimeconfig.json
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter.dll
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/bin/Debug/net7.0/Starter.pdb
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.csproj.AssemblyReference.cache
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfoInputs.cache
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.AssemblyInfo.cs
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.csproj.CoreCompileInputs.cache
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.dll
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/refint/Starter.dll
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.pdb
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/Starter.genruntimeconfig.cache
+/home/rifkymaulana/Repos/MicrosoftLearn/Path3/CsharpProjects/Challenge-project-branching-looping-CSharp-main/ChallengeProject/Starter/obj/Debug/net7.0/ref/Starter.dll
