@@ -1,0 +1,15 @@
+/home/rifkymaulana/Repos/DotNetDebugging/bin/Release/net7.0/DotNetDebugging
+/home/rifkymaulana/Repos/DotNetDebugging/bin/Release/net7.0/DotNetDebugging.deps.json
+/home/rifkymaulana/Repos/DotNetDebugging/bin/Release/net7.0/DotNetDebugging.runtimeconfig.json
+/home/rifkymaulana/Repos/DotNetDebugging/bin/Release/net7.0/DotNetDebugging.dll
+/home/rifkymaulana/Repos/DotNetDebugging/bin/Release/net7.0/DotNetDebugging.pdb
+/home/rifkymaulana/Repos/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.csproj.AssemblyReference.cache
+/home/rifkymaulana/Repos/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+/home/rifkymaulana/Repos/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.AssemblyInfoInputs.cache
+/home/rifkymaulana/Repos/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.AssemblyInfo.cs
+/home/rifkymaulana/Repos/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.csproj.CoreCompileInputs.cache
+/home/rifkymaulana/Repos/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.dll
+/home/rifkymaulana/Repos/DotNetDebugging/obj/Release/net7.0/refint/DotNetDebugging.dll
+/home/rifkymaulana/Repos/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.pdb
+/home/rifkymaulana/Repos/DotNetDebugging/obj/Release/net7.0/DotNetDebugging.genruntimeconfig.cache
+/home/rifkymaulana/Repos/DotNetDebugging/obj/Release/net7.0/ref/DotNetDebugging.dll
