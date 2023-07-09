@@ -1,0 +1,15 @@
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.deps.json
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.runtimeconfig.json
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.dll
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/bin/Debug/net7.0/TestProject.pdb
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.AssemblyReference.cache
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfoInputs.cache
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.AssemblyInfo.cs
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.csproj.CoreCompileInputs.cache
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.dll
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/obj/Debug/net7.0/refint/TestProject.dll
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.pdb
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/obj/Debug/net7.0/TestProject.genruntimeconfig.cache
+/home/rifkymaulana/Repos/MicrosoftLearn/Path4/CsharpProjects/TestProject/obj/Debug/net7.0/ref/TestProject.dll
