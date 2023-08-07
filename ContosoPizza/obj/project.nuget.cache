@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CLO/VhIF75lPn6BMSIAtJmM6kH985DqSwo5Ey9HNCJ2ByHpericaJ9pZjTUDKClRmJTKdBJGMM67XLK4HCQ/jA==",
+  "success": true,
+  "projectFilePath": "/home/rifkymaulana/Repos/MicrosoftLearn/ContosoPizza/ContosoPizza.csproj",
+  "expectedPackageFiles": [
+    "/home/rifkymaulana/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/home/rifkymaulana/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/rifkymaulana/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/home/rifkymaulana/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/home/rifkymaulana/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/home/rifkymaulana/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/home/rifkymaulana/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.20/microsoft.netcore.app.host.linux-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
