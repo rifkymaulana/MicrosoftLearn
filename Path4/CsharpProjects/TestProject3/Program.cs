@@ -91,8 +91,8 @@ string[] reverse = new string[reverseProgram.Length];
 foreach (var item in reverseProgram)
 {
     char[] charArray = item.ToCharArray();
-    string temp = string.Join("", charArray.Reverse());
-    reverse[Array.IndexOf(reverseProgram, item)] = temp;
+    Array.Reverse(charArray);
+    reverse[Array.IndexOf(reverseProgram, item)] = new string(charArray);
 }
 
 foreach (var item in reverse)
@@ -102,3 +102,19 @@ foreach (var item in reverse)
 
 string resultPangram = string.Join(" ", reverse);
 Console.WriteLine($"Reversed String: {resultPangram}");
+
+string orderStream = "B123,C234,A345,C15,B177,G3003,C235,B179";
+string[] orderArray = orderStream.Split(',');
+Array.Sort(orderArray);
+foreach (var item in orderArray)
+{
+    if (item.Length != 4)
+    {
+        Console.WriteLine($"-- Order #{item}\t- Error");
+    }
+    else
+    {
+        Console.WriteLine($"-- Order #{item}");
+    }
+}
+
