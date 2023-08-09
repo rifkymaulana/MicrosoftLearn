@@ -83,3 +83,22 @@ foreach (var item in items)
 {
     Console.WriteLine($"-- {item}");
 }
+
+
+string pangram = "The quick brown fox jumps over the lazy dog";
+string[] reverseProgram = pangram.Split(' ');
+string[] reverse = new string[reverseProgram.Length];
+foreach (var item in reverseProgram)
+{
+    char[] charArray = item.ToCharArray();
+    string temp = string.Join("", charArray.Reverse());
+    reverse[Array.IndexOf(reverseProgram, item)] = temp;
+}
+
+foreach (var item in reverse)
+{
+    Console.WriteLine($"-- {item}");
+}
+
+string resultPangram = string.Join(" ", reverse);
+Console.WriteLine($"Reversed String: {resultPangram}");
